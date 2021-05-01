@@ -1,0 +1,16 @@
+com/cbiel/geoquiz2021/MainActivity.java
+ com.cbiel.geoquiz2021.MainActivity
+ com.cbiel.geoquiz2021.MainActivity$1
+ com.cbiel.geoquiz2021.MainActivity$2
+ com.cbiel.geoquiz2021.MainActivity$3
+ com.cbiel.geoquiz2021.MainActivity$4
+com/cbiel/geoquiz2021/BuildConfig.java
+ com.cbiel.geoquiz2021.BuildConfig
+com/cbiel/geoquiz2021/SecondFragment.java
+ com.cbiel.geoquiz2021.SecondFragment
+ com.cbiel.geoquiz2021.SecondFragment$1
+com/cbiel/geoquiz2021/FirstFragment.java
+ com.cbiel.geoquiz2021.FirstFragment
+ com.cbiel.geoquiz2021.FirstFragment$1
+com/cbiel/geoquiz2021/Question.java
+ com.cbiel.geoquiz2021.Question
